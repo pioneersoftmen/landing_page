@@ -1,7 +1,12 @@
 header {
     background-color: #1F2937;
 }
-
+nav {
+    display: flex;
+}
+nav a{
+    justify-content: end;
+}
 header .awesome {
     font-size: 48px;
     font-weight: extra-bold;
